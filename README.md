@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 -   - Send me an e-mail: mailto:luca@sunnyday.software
 -   - Calls me +31 (0)6 20 558509
--   - Meet me @ Nerone Pizzeria in Purmerend (Noord-Holland) -> 5PM tot 9PM
+-   - Meet me @ Nerone Pizzeria in Purmerend (Noord-Holland) -> Thu-Sun / 5PM tot 9PM
 
 
 <!---
