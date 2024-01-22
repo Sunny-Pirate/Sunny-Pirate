@@ -21,7 +21,7 @@ technologies like Next.js, Chakra UI, GraphQL, and Strapi.
 
 If you're looking for a skilled web developer to bring your ideas to life or simply want to connect, feel free to reach out to me:
 
-- 📧 Email: [luca.faccio.pd@gmail.com](mailto:luca.faccio.pd@gmail.com)
+- 📧 Email: [info@dreamlab.solutions](mailto:info@dreamlab.solutions)
 - 💼 Portfolio: [DreamLab.Solutions](https://dreamlab.solutions)
 - 🌐 LinkedIn: [linkedin.com/in/luca-faccio](https://www.linkedin.com/in/luca-faccio/)
 
