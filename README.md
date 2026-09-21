@@ -2,13 +2,27 @@
 
 UX/UI designer and full-stack web developer based in Amsterdam.
 
-I work across interface design and implementation, connecting how a product looks, how people use it and how it works behind the scenes. My work includes websites, web applications, content management and integrations with backend services.
+**Figma prototyping · Design systems · Integrations · Web applications**
 
-## Design and development
+I turn product ideas into interactive prototypes, reusable design systems and connected web applications. My work covers the experience people interact with and the services behind it, from shaping a concept to designing interfaces and implementing integrations.
 
-I work on user flows, interface layouts and reusable components, then bring them into working applications. I also work with existing projects: improving their structure, connecting services and making the next development step easier to understand.
+## Interactive prototyping in Figma
 
-My web work includes Astro, Vue, React and TypeScript, with Supabase among the backend tools I use. The technology supports the project; it is not the product itself.
+Figma prototyping is a core part of my work. I turn rough concepts into high-fidelity, interactive prototypes, working through user journeys, navigation, screen states and responsive layouts.
+
+I use Figma and Figma Make to explore product behaviour and iterate on ideas. A prototype is more than a collection of screens: it makes flows and interactions tangible, so product decisions can be discussed before implementation.
+
+## Design systems and reusable interfaces
+
+I build and consolidate component libraries, variants, variables and semantic design tokens. This includes shared themes, responsive behaviour and multilingual interfaces.
+
+I work on the connection between design and implementation: what belongs in a shared component, what is specific to a product, and how the interface behaves across different states and layouts.
+
+## Integrations and application development
+
+I design how applications, data and external services work together. My work includes APIs, content management, authentication, storage and workflow integrations, as well as adapters that connect existing systems.
+
+That means defining responsibilities and data flows, not only writing endpoints or assembling screens. I also develop web applications with Astro, Vue, React and TypeScript, with Supabase among the backend tools I use.
 
 ## DreamLab.Solutions
 
@@ -18,6 +32,6 @@ Sunny-Pirate is my personal developer profile. It includes my projects, experime
 
 ## Get in touch
 
-For freelance work, product conversations or collaboration, contact me at [info@dreamlab.solutions](mailto:info@dreamlab.solutions).
+For product design, Figma prototyping, integrations, development or collaboration, contact me at [info@dreamlab.solutions](mailto:info@dreamlab.solutions).
 
 [DreamLab website](https://dreamlab.solutions) · [DreamLab on GitHub](https://github.com/DreamLab-Solutions) · [LinkedIn](https://www.linkedin.com/in/luca-faccio/)
